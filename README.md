@@ -32,10 +32,13 @@ See the files:
 
 //TODO
 
-## Other
+## More
 
-[Mouse and click on the corners of the screen (Useful)]()
+- [Mouse and click on the corners of the screen (Useful)](https://github.com/jomoza/Awesome-Kiosk-Hacking/blob/main/Malduino_kiosk_Corner_Clicks.ino)
+
+- [Malduino_touch_kiosk_scape.ino](https://github.com/jomoza/Awesome-Kiosk-Hacking/blob/main/Malduino_touch_kiosk_scape.ino) This POC allows the arduino to simulate touching the corners of a touch screen. It can also be useful if using the Mouse.h library does not work. It also uses the [Adafruit_FT6206](https://github.com/adafruit/Adafruit_FT6206_Library) library.
 
 ## Project & references
 
 //TODO Members, links,...
+### Videos.
