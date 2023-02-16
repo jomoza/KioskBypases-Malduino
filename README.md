@@ -26,13 +26,15 @@ See the files:
 
 //TODO
 
+[About emulate android touch w/ Arduino](https://forum.arduino.cc/t/how-to-use-arduino-input-to-emulate-touch-on-android/140732)
+
 ## Linux Kiosk
 
 //TODO
 
 ## Other
 
-//TODO
+[Mouse and click on the corners of the screen (Useful)]()
 
 ## Project & references
 
