@@ -50,11 +50,18 @@ Note that this is just an example, and that the pin used and the BLE command sen
 
 ### Videos.
 
+- [People di thinks wz Flippe Zero](https://www.youtube.com/shorts/fEbEJ2AoIP0)
+- [MaaS360 - escape from COSU Kiosk Mode](https://www.youtube.com/watch?v=3cDX-5KTB18)
+- [Build a kiosk](https://www.youtube.com/watch?v=hf96SQqOoRs)
+- [Old but Gold](https://external-preview.redd.it/6Y_KRDqa1628iIBcnOl3kEg3cekA58CNQLru9HxYwNE.gif?format=mp4&s=5262cebdf02bba73ee1b51108e29ef1dbb9b37ee)
+
+
 ### Links
 
 - [HACKTRICKS "Escaping from gui applications"](https://book.hacktricks.xyz/hardware-physical-access/escaping-from-gui-applications)
 - [How to exit android kiosk mode in hexnode mdm](https://www.hexnode.com/mobile-device-management/help/how-to-exit-android-kiosk-mode-in-hexnode-mdm/)
 - [kiosk hacking](https://www.kiosksimple.com/blogs/news/kiosk-hacking)
+- [kioskindustry - Tips To Harden Your Kiosk Lockdown Browser](https://kioskindustry.org/kiosk-hacking-tips-to-harden-your-kiosk/)
 - [Exit browser full screen](https://unix.stackexchange.com/questions/702690/exit-browser-in-full-screen)
 - [Exit Friefox Kiosk mode](https://superuser.com/questions/424411/how-to-exit-firefox-kiosk-mode)
 - [Kiosk breakout cheatsheet](https://pentestdiary.blogspot.com/2017/12/kiosk-breakout-cheatsheet.html)
@@ -74,3 +81,5 @@ Note that this is just an example, and that the pin used and the BLE command sen
 - [How to configure disable kiosk mode windows 10](https://www.makeuseof.com/how-to-configure-disable-kiosk-mode-windows-10/#:~:text=To%20disable%20kiosk%20mode%2C%20go,on%20the%20Remove%20kiosk%20button.)
 - [Linux kiosk military trackball](http://www.maciejkola.pl/linux-kiosk-military-trackball-and-hp-terminal-hacking/)
 - [How to exit Kiosck Linux Mode](https://askubuntu.com/questions/884275/how-to-exit-from-kiosk-mode)
+
+- [RFID Kiosks](https://www.atlasrfidstore.com/rfid-kiosks)
