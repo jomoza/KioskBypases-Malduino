@@ -1,6 +1,8 @@
 # Awesome Kiosk Hacking
 Compilation of scripts and resources used for the escape, evasion and bypass of tactile kiosks. There are different cases depending on the specifics of each kiosk device.
 
+![](https://external-preview.redd.it/atm-kiosk-hacking-2022-payment-village-v0-yKep09vUlzYnBDacaGGBXYXT-nUA_sCgBQfmlsvRZDw.jpg?width=640&crop=smart&auto=webp&s=4f50d108e6a3ae9d084ba69a05f165bbb64e2849)
+
 ## Windows Kiosk
 
 [BadUSB/FlipperZero Big Evasion](https://github.com/nocomp/Kiosk-evasion-BADUsb-Bruteforce)
@@ -60,8 +62,12 @@ Note that this is just an example, and that the pin used and the BLE command sen
 - [Kiosk breakout](https://ppn.snovvcrash.rocks/pentest/infrastructure/kiosk-breakout)
 - [x90x90 Kiosk breakout](https://www.x90x90.net/tools/2022/11/02/Kiosk-Breakout.html)
 - [iKAT v3.0 - Paul Craig](http://www.ikat.kronicd.net/Windows/)
+- [ATM Kiosk hacking phd2022](https://boschko.ca/atm-kiosk-hacking-phd2022/)
+
 
 - [Exit kiosk mode android](https://help.airdroid.com/hc/en-us/articles/4402066691611--Guide-How-to-exit-the-Kiosk-Mode-)
 - [Safe Exam Browser CVE-2022-36220](https://nvd.nist.gov/vuln/detail/CVE-2022-36220)
+- [More](https://github.com/SafeExamBrowser/seb-win-refactoring/issues/434)
 - [How to configure disable kiosk mode windows 10](https://www.makeuseof.com/how-to-configure-disable-kiosk-mode-windows-10/#:~:text=To%20disable%20kiosk%20mode%2C%20go,on%20the%20Remove%20kiosk%20button.)
 - [Linux kiosk military trackball](http://www.maciejkola.pl/linux-kiosk-military-trackball-and-hp-terminal-hacking/)
+- [How to exit Kiosck Linux Mode](https://askubuntu.com/questions/884275/how-to-exit-from-kiosk-mode)
