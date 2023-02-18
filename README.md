@@ -56,6 +56,7 @@ Note that this is just an example, and that the pin used and the BLE command sen
 - [How to exit android kiosk mode in hexnode mdm](https://www.hexnode.com/mobile-device-management/help/how-to-exit-android-kiosk-mode-in-hexnode-mdm/)
 - [kiosk hacking](https://www.kiosksimple.com/blogs/news/kiosk-hacking)
 - [Exit browser full screen](https://unix.stackexchange.com/questions/702690/exit-browser-in-full-screen)
+- [Exit Friefox Kiosk mode](https://superuser.com/questions/424411/how-to-exit-firefox-kiosk-mode)
 - [Kiosk breakout cheatsheet](https://pentestdiary.blogspot.com/2017/12/kiosk-breakout-cheatsheet.html)
 - [ATM Kios Hacking](https://boschko.ca/atm-kiosk-hacking-phd2022/)
 - [DEFCON 2016 Hacking Internet Kiosk’s](https://media.defcon.org/DEF%20CON%2016/DEF%20CON%2016%20presentations/DEF%20CON%2016%20-%20craig.pdf)
