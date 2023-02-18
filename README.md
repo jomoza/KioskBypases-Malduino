@@ -24,6 +24,8 @@ See the files:
 
 This would be the example in the CMD of how the bypass that is explained would be performed. This is to understand the PoC, since, as the CMD is blocked, we will not be able to launch this directly emulating the shortcut Win+R. It is more advisable that the Arduino forces the opening of an explorer window and perform the process manually.
 
+- More info [here](https://blog.nviso.eu/2022/05/24/breaking-out-of-windows-kiosks-using-only-microsoft-edge/)
+
 ## Android Kiosk
 
 [About emulate android touch w/ Arduino](https://forum.arduino.cc/t/how-to-use-arduino-input-to-emulate-touch-on-android/140732)
@@ -44,5 +46,22 @@ Note that this is just an example, and that the pin used and the BLE command sen
 
 ## Project & references
 
-//TODO Members, links,...
 ### Videos.
+
+### Links
+
+- [HACKTRICKS "Escaping from gui applications"](https://book.hacktricks.xyz/hardware-physical-access/escaping-from-gui-applications)
+- [How to exit android kiosk mode in hexnode mdm](https://www.hexnode.com/mobile-device-management/help/how-to-exit-android-kiosk-mode-in-hexnode-mdm/)
+- [kiosk hacking](https://www.kiosksimple.com/blogs/news/kiosk-hacking)
+- [Kiosk breakout cheatsheet](https://pentestdiary.blogspot.com/2017/12/kiosk-breakout-cheatsheet.html)
+- [ATM Kios Hacking](https://boschko.ca/atm-kiosk-hacking-phd2022/)
+- [DEFCON 2016 Hacking Internet Kiosk’s](https://media.defcon.org/DEF%20CON%2016/DEF%20CON%2016%20presentations/DEF%20CON%2016%20-%20craig.pdf)
+- [ATM Kiosk hacking labs](https://boschko.ca/atm-kiosk-hacking-labs/)
+- [Kiosk breakout](https://ppn.snovvcrash.rocks/pentest/infrastructure/kiosk-breakout)
+- [x90x90 Kiosk breakout](https://www.x90x90.net/tools/2022/11/02/Kiosk-Breakout.html)
+- [iKAT v3.0 - Paul Craig](http://www.ikat.kronicd.net/Windows/)
+
+- [Exit kiosk mode android](https://help.airdroid.com/hc/en-us/articles/4402066691611--Guide-How-to-exit-the-Kiosk-Mode-)
+- [Safe Exam Browser CVE-2022-36220](https://nvd.nist.gov/vuln/detail/CVE-2022-36220)
+- [How to configure disable kiosk mode windows 10](https://www.makeuseof.com/how-to-configure-disable-kiosk-mode-windows-10/#:~:text=To%20disable%20kiosk%20mode%2C%20go,on%20the%20Remove%20kiosk%20button.)
+- [Linux kiosk military trackball](http://www.maciejkola.pl/linux-kiosk-military-trackball-and-hp-terminal-hacking/)
