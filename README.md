@@ -70,6 +70,7 @@ Note that this is just an example, and that the pin used and the BLE command sen
 - [Exit kiosk mode android](https://help.airdroid.com/hc/en-us/articles/4402066691611--Guide-How-to-exit-the-Kiosk-Mode-)
 - [Safe Exam Browser CVE-2022-36220](https://nvd.nist.gov/vuln/detail/CVE-2022-36220)
 - [More](https://github.com/SafeExamBrowser/seb-win-refactoring/issues/434)
+- [KioWare Server Version 4.9.6 - Weak Folder Permissions Privilege Escalation](https://www.exploit-db.com/exploits/46093)
 - [How to configure disable kiosk mode windows 10](https://www.makeuseof.com/how-to-configure-disable-kiosk-mode-windows-10/#:~:text=To%20disable%20kiosk%20mode%2C%20go,on%20the%20Remove%20kiosk%20button.)
 - [Linux kiosk military trackball](http://www.maciejkola.pl/linux-kiosk-military-trackball-and-hp-terminal-hacking/)
 - [How to exit Kiosck Linux Mode](https://askubuntu.com/questions/884275/how-to-exit-from-kiosk-mode)
