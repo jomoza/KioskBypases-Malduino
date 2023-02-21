@@ -40,6 +40,10 @@ This code waits for a button connected to pin 7 of the Arduino to be pressed bef
 
 Note that this is just an example, and that the pin used and the BLE command sent may vary depending on the Android device and Bluetooth module used. Be sure to properly configure the Bluetooth module and connect to the Android device before running the code.
 
+## Manual Kiosk Scape
+### Tips
+- Try to interact with images by holding down until the "Save Image As" option appears. Then, click on the *Help* blue icon at the top right of the Windows File Manager to spawn a browser.
+
 ## More
 
 - [Mouse and click on the corners of the screen (Useful)](https://github.com/jomoza/Awesome-Kiosk-Hacking/blob/main/Malduino_kiosk_Corner_Clicks.ino)
