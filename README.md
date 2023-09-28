@@ -1,4 +1,4 @@
-# Awesome Kiosk Hacking
+# KioskBypases Malduino
 Compilation of scripts and resources used for the escape, evasion and bypass of tactile kiosks. There are different cases depending on the specifics of each kiosk device.
 
 ![](https://external-preview.redd.it/atm-kiosk-hacking-2022-payment-village-v0-yKep09vUlzYnBDacaGGBXYXT-nUA_sCgBQfmlsvRZDw.jpg?width=640&crop=smart&auto=webp&s=4f50d108e6a3ae9d084ba69a05f165bbb64e2849)
